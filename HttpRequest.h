@@ -2,8 +2,8 @@
 //  HttpRequest.h
 //  01-NSURLSession
 //
-//  Created by vera on 16/9/9.
-//  Copyright © 2016年 deli. All rights reserved.
+//  Created by vera on 16/10/5.
+//  Copyright © 2016年 林理刚 All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
