@@ -2,7 +2,7 @@
 //  HttpRequest.h
 //  01-NSURLSession
 //
-//  Created by vera on 16/10/5.
+//  Created by lin on 16/10/5.
 //  Copyright © 2016年 林理刚 All rights reserved.
 //
 
